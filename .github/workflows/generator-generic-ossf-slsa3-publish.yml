@@ -1,4 +1,4 @@
-https://github.com/InkboxSoftware/excelCPU.git# This workflow uses actions that are not certified by GitHub.
+[![.github/workflows/generator-generic-ossf-slsa3-publish.yml](https://github.com/longca9396/excelCPU/actions/workflows/generator-generic-ossf-slsa3-publish.yml/badge.svg)](https://github.com/longca9396/excelCPU/actions/workflows/generator-generic-ossf-slsa3-publish.yml)https://github.com/InkboxSoftware/excelCPU.git# This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
